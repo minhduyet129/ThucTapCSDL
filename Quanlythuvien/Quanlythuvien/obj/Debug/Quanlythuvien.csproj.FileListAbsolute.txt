@@ -1,0 +1,15 @@
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojAssemblyReference.cache
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.dll
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.xml
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CopyComplete
+C:\Users\tran duyet\Desktop\file ttcsdl\dữ liệu thực tập\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.TranMinhDuyet.Form2.resources

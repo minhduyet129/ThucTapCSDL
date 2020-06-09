@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0d68d137bac14feb8d3314867ace64d1" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanlythuvienModel.CHITIETPHIEUMUON" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.CHITIETPHIEUTRA" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.DOCGIA" Width="1.5" PointX="1.5" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.NXB" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.PHIEUMUON" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.PHIEUTRA" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.SACH" Width="1.5" PointX="3" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.TACGIA" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.THELOAI" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanlythuvienModel.THETHUVIEN" Width="1.5" PointX="0.75" PointY="13.25" IsExpanded="true" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_CHITIETPHIEUMUON_PHIEUMUON" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_CHITIETPHIEUMUON_SACH" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_CHITIETPHIEUTRA_PHIEUTRA" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_CHITIETPHIEUTRA_SACH" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_THETHUVIEN_DOCGIA" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_PHIEUMUON_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_PHIEUTRA_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK__SACH__MaNXB__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_PHIEUMUON_THETHUVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK_PHIEUTRA_THETHUVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK__SACH__MaTG__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanlythuvienModel.FK__SACH__MaTL__4BAC3F29" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
